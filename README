@@ -1,0 +1,8 @@
+Tool for installing ipa from any popular apache-php server
+1. setup virtual host to point to this folder
+2. edit config/config.ini
+3. copy ipa to apps folder
+4. point browser on device to virtual host
+5. install provisioning profile
+6. install app
+
